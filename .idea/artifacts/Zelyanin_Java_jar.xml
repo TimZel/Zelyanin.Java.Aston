@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Zelyanin.Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zelyanin_Java_jar</output-path>
+    <root id="archive" name="Zelyanin.Java.jar">
+      <element id="module-output" name="Zelyanin.Java" />
+    </root>
+  </artifact>
+</component>
